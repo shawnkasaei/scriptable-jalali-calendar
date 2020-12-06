@@ -1,10 +1,13 @@
 # IOS14 Jalali Calendar Widget For Scriptable
 
+### Note
+
 this is a simple js script i wrote that enables you to have a highly customizable persian calender widget on your sweet home screen using Scriptable.
 
-by default i have put dark and white color 
+by default it has both dark and white mode color configurations but feel free to tweak it and share it online so i can see yours.
 
-# IOS14 Jalali Calendar Widget For Scriptable
+cheers. happy coding.
+
 
 ### Useage
 1. Download [scriptable](https://scriptable.app/) from App Store
