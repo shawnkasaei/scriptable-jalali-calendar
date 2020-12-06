@@ -15,4 +15,4 @@ cheers. happy coding.
 3. Add it to your homescreen scriptable widget
 
 ### Preview
-![preview](https://drive.google.com/uc?export=view&id=1yoEhu-_K0fyLNMyyVPPXmTXgkiwFtxid)
+![preview](https://drive.google.com/uc?export=view&id=1bk2ue0EurIs4bqMDzNgah9-2xQsXUzyv)
