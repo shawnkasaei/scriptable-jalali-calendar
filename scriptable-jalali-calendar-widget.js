@@ -17,7 +17,7 @@ let persianNumbers = ['۰', '۱', '۲', '۳', '۴', '۵', '۶', '۷', '۸', '۹'
 //Configuring --> gradient color profiles
 //change colors hex codes if you wish
 let darkMode = false  //true to enable dark mode
-											//for best results, use it with ios dark mode turned on)
+		      //for best results, use it with ios dark mode turned on)
 let gradient = new LinearGradient()
 gradient.locations = [0, 1]
 if (darkMode){
