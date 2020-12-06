@@ -15,5 +15,4 @@ cheers. happy coding.
 3. Add it to your homescreen scriptable widget
 
 ### Preview
-![preview](https://drive.google.com/file/d/)
-<iframe src="https://drive.google.com/file/d/1yoEhu-_K0fyLNMyyVPPXmTXgkiwFtxid/preview" width="640" height="480"></iframe>
+![preview](https://drive.google.com/uc?export=view&id=1yoEhu-_K0fyLNMyyVPPXmTXgkiwFtxid)
